@@ -14,12 +14,12 @@ export default {
     return{
       images: [
         {
-          id: 989,
+          id: 1,
           name: 'car with registeration number',
           url: 'https://res.cloudinary.com/demo/image/upload/black_car.jpg',
         },
         {
-          id: 990,
+          id: 2,
           name: 'car with blurred registeration number',
           url: 'https://res.cloudinary.com/demo/image/upload/e_pixelate_region:20,g_ocr_text/black_car.jpg',
       },
